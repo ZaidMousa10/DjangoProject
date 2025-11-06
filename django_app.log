@@ -1,0 +1,211 @@
+INFO 2025-11-05 18:25:40,143 django.utils.autoreload Watching for file changes with StatReloader (user: Anonymous)
+INFO 2025-11-05 18:25:55,412 django.utils.autoreload Watching for file changes with StatReloader (user: Anonymous)
+WARNING 2025-11-05 18:26:09,470 django.request Unauthorized: /users/ (user: )
+WARNING 2025-11-05 18:26:09,471 django.server "POST /users/ HTTP/1.1" 401 172 (user: )
+INFO 2025-11-05 18:26:15,396 django.server "POST /api/token/ HTTP/1.1" 200 489 (user: )
+WARNING 2025-11-05 18:26:27,360 django.request Bad Request: /users/ (user: )
+WARNING 2025-11-05 18:26:27,362 django.server "POST /users/ HTTP/1.1" 400 44 (user: )
+INFO 2025-11-05 18:26:41,750 django.server "POST /users/ HTTP/1.1" 201 50 (user: )
+INFO 2025-11-05 18:28:40,053 django.utils.autoreload C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading. (user: Anonymous)
+INFO 2025-11-05 18:28:40,070 django.utils.autoreload C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading. (user: Anonymous)
+INFO 2025-11-05 18:28:40,685 django.utils.autoreload Watching for file changes with StatReloader (user: Anonymous)
+INFO 2025-11-05 18:28:40,716 django.utils.autoreload Watching for file changes with StatReloader (user: Anonymous)
+INFO 2025-11-05 18:29:30,739 django.utils.autoreload C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading. (user: Anonymous)
+INFO 2025-11-05 18:29:30,769 django.utils.autoreload C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading. (user: Anonymous)
+INFO 2025-11-05 18:29:31,507 django.utils.autoreload Watching for file changes with StatReloader (user: Anonymous)
+INFO 2025-11-05 18:29:31,507 django.utils.autoreload Watching for file changes with StatReloader (user: Anonymous)
+INFO 2025-11-05 18:29:46,775 django.utils.autoreload C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading. (user: Anonymous)
+INFO 2025-11-05 18:29:47,416 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:29:47,833 django.utils.autoreload C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading. (user: Anonymous)
+INFO 2025-11-05 18:29:48,352 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:30:18,064 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+WARNING 2025-11-05 18:30:23,355 [Anonymous] django.request: Bad Request: /users/
+WARNING 2025-11-05 18:30:23,356 [Anonymous] django.server: "POST /users/ HTTP/1.1" 400 44
+INFO 2025-11-05 18:30:42,283 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-11-05 18:31:55,465 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:31:55,917 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:31:56,162 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:31:56,537 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:31:56,675 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:31:56,929 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:32:19,069 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 18:32:19,206 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 18:32:19,392 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 18:32:19,789 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:32:19,926 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:32:20,181 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:34:21,252 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:34:27,747 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-11-05 18:43:46,948 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:43:46,957 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:43:47,061 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:43:47,370 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:50:18,090 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:50:18,437 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:50:18,437 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:50:18,528 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:50:47,053 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:50:58,422 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+WARNING 2025-11-05 18:51:19,808 [Anonymous] django.request: Bad Request: /users/
+WARNING 2025-11-05 18:51:19,809 [Anonymous] django.server: "POST /users/ HTTP/1.1" 400 44
+INFO 2025-11-05 18:51:27,459 [Anonymous] django.server: "POST /users/ HTTP/1.1" 201 50
+INFO 2025-11-05 18:54:08,298 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 18:54:08,804 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 18:55:11,398 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+WARNING 2025-11-05 18:55:15,846 [Anonymous] django.request: Bad Request: /users/
+WARNING 2025-11-05 18:55:15,846 [Anonymous] django.server: "POST /users/ HTTP/1.1" 400 44
+INFO 2025-11-05 19:12:50,212 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:12:50,222 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:12:51,141 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:13:02,161 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:13:02,178 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:13:02,784 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:13:02,806 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:13:41,978 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:14:49,258 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:14:49,273 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:14:49,724 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:14:50,211 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:14:50,211 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:14:50,306 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:00,828 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:15:00,838 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:15:00,838 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:15:03,105 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:03,105 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:03,105 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:18,171 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:54,562 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 19:15:54,760 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 19:15:54,761 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 19:15:55,383 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:55,439 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 19:15:55,619 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:55,619 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:15:56,008 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:06,680 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:06,684 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:07,148 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:07,326 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:07,326 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:07,428 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:07,664 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:07,924 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:16,212 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:16,223 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:16,476 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:16,754 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:16:16,775 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:16,784 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:17,055 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:17,370 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:17,686 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:16:25,557 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-11-05 19:29:39,895 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\mixins.py changed, reloading.
+INFO 2025-11-05 19:29:39,920 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\mixins.py changed, reloading.
+INFO 2025-11-05 19:29:39,921 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\mixins.py changed, reloading.
+INFO 2025-11-05 19:29:39,959 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\mixins.py changed, reloading.
+INFO 2025-11-05 19:29:40,323 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\mixins.py changed, reloading.
+INFO 2025-11-05 19:29:41,461 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:41,462 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:41,462 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:41,462 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:53,867 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:29:53,877 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:29:53,894 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:29:53,934 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:29:53,959 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:29:55,926 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:55,995 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:56,035 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:56,037 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:29:56,052 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:30:14,680 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:30:14,886 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:30:14,886 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:30:14,897 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:30:15,529 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:30:15,646 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:30:15,749 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:30:15,751 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:30:16,251 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:31:00,589 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:31:06,449 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-11-05 19:32:21,000 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:32:21,007 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:32:21,016 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:32:21,024 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:32:21,027 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:32:21,475 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:35:41,128 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:36:08,874 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:36:09,434 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:36:29,505 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:36:51,930 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:36:52,459 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:37:08,656 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:37:09,212 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:37:55,252 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:38:02,489 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+WARNING 2025-11-05 19:38:30,860 [Anonymous] django.request: Bad Request: /users/
+WARNING 2025-11-05 19:38:30,861 [Anonymous] django.server: "POST /users/ HTTP/1.1" 400 44
+INFO 2025-11-05 19:38:39,400 [Anonymous] django.server: "POST /users/ HTTP/1.1" 201 50
+INFO 2025-11-05 19:41:54,133 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:41:54,812 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:42:23,767 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:42:31,060 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+WARNING 2025-11-05 19:42:58,160 [Anonymous] django.request: Bad Request: /users/
+WARNING 2025-11-05 19:42:58,161 [Anonymous] django.server: "POST /users/ HTTP/1.1" 400 44
+INFO 2025-11-05 19:43:07,694 [Anonymous] django.server: "POST /users/ HTTP/1.1" 201 50
+INFO 2025-11-05 19:45:43,996 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:45:44,001 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:45:44,659 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:45:44,660 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:45:56,839 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:45:56,841 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:45:57,395 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:45:57,395 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:47:04,859 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:47:46,262 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:47:46,649 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:47:46,653 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:47:46,972 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:47:47,584 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:47:58,096 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:47:58,637 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:47:58,656 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:47:58,693 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:47:59,352 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:47:59,352 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:43,326 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:48:43,890 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:44,221 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:48:44,236 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\middleware.py changed, reloading.
+INFO 2025-11-05 19:48:44,814 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:44,825 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:51,480 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:48:51,645 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:48:51,662 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:48:52,074 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:52,336 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:58,746 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:48:59,156 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:48:59,159 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 19:48:59,347 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:59,795 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:48:59,795 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:50:02,599 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 19:50:09,670 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-11-05 19:55:45,488 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 19:55:46,045 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 21:53:24,398 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 21:53:25,491 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 21:53:33,451 [Anonymous] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 21:53:40,233 [Anonymous] django.server: "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-11-05 21:54:32,309 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 21:54:32,646 [Anonymous] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 21:54:32,918 [Authenticated (No Username)] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 21:54:33,290 [Authenticated (No Username)] django.utils.autoreload: Watching for file changes with StatReloader
+INFO 2025-11-05 21:54:38,388 [Authenticated (No Username)] django.server: "POST /api/token/ HTTP/1.1" 200 489
+INFO 2025-11-05 22:00:29,659 [Authenticated (No Username)] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.
+INFO 2025-11-05 22:00:29,922 [Authenticated (No Username)] django.utils.autoreload: C:\Users\user\PycharmProjects\DjangoProject\training_app\logging_filters.py changed, reloading.

@@ -1,7 +1,7 @@
-from rest_framework import routers
-from .views import UserViewSet
+# training_app/urls.py
+from django.urls import path
+from .views import users_list
 
-router = routers.DefaultRouter()
-router.register(r'users', UserViewSet)
-
-urlpatterns = router.urls
+urlpatterns = [
+    path('users/', users_list, name='users_list'),
+]

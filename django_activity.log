@@ -1,0 +1,183 @@
+2025-11-05 18:10:12 - Anonymous - Watching for file changes with StatReloader
+2025-11-05 18:11:18 - Anonymous - Watching for file changes with StatReloader
+2025-11-05 18:11:27 - Anonymous - Unauthorized: /users/
+2025-11-05 18:11:43 - Anonymous - Unauthorized: /users/
+2025-11-05 18:13:05 - Anonymous - Bad Request: /users/
+2025-11-05 18:24:15 - Anonymous - C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+2025-11-05 18:24:16 - Anonymous - Watching for file changes with StatReloader
+2025-11-05 18:24:29 - Anonymous - C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+2025-11-05 18:24:29 - Anonymous - Watching for file changes with StatReloader
+2025-11-05 18:25:39 - Anonymous - C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:14:47,960 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:14:47,960 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:14:48,115 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:14:48,115 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:14:52,896 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:14:52,896 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:15:44,488 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:15:44,488 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:15:44,713 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:15:44,713 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:15:44,840 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:15:44,840 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:15:45,143 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:15:45,143 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:15:45,449 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:15:45,449 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:15:45,540 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:15:45,540 [django.utils.autoreload] Watching for file changes with StatReloader
+INFO 2025-11-05 22:16:38,161 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:16:38,161 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:16:38,826 Watching for file changes with StatReloader
+INFO 2025-11-05 22:16:38,870 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:16:38,870 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:16:39,087 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:16:39,087 [django.utils.autoreload] C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:16:39,425 Watching for file changes with StatReloader
+INFO 2025-11-05 22:16:39,685 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:07,463 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:44,314 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:44,515 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:44,618 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:44,778 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:44,847 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:44,984 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:45,091 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:45,224 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:57,411 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:57,560 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:57,671 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:57,780 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:17:57,877 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:58,025 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:58,158 Watching for file changes with StatReloader
+INFO 2025-11-05 22:17:58,286 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:02,576 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:02,723 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:02,821 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:03,005 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:03,132 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:03,335 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:03,430 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:03,611 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:18,829 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:19,008 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:19,080 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:19,306 C:\Users\user\PycharmProjects\DjangoProject\training_app\apps.py changed, reloading.
+INFO 2025-11-05 22:19:19,480 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:19,731 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:19,755 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:19,916 Watching for file changes with StatReloader
+INFO 2025-11-05 22:19:27,375 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:14,032 C:\Users\user\PycharmProjects\DjangoProject\training_app\urls.py changed, reloading.
+INFO 2025-11-05 22:21:14,040 C:\Users\user\PycharmProjects\DjangoProject\training_app\urls.py changed, reloading.
+INFO 2025-11-05 22:21:14,044 C:\Users\user\PycharmProjects\DjangoProject\training_app\urls.py changed, reloading.
+INFO 2025-11-05 22:21:14,537 C:\Users\user\PycharmProjects\DjangoProject\training_app\urls.py changed, reloading.
+INFO 2025-11-05 22:21:14,679 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:14,696 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:14,732 C:\Users\user\PycharmProjects\DjangoProject\training_app\urls.py changed, reloading.
+INFO 2025-11-05 22:21:15,127 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:15,296 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:26,926 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:21:27,011 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:21:27,566 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:27,664 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:27,735 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:21:27,750 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:21:27,759 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:21:28,365 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:28,418 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:28,420 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:38,082 C:\Users\user\PycharmProjects\DjangoProject\training_app\serializers.py changed, reloading.
+INFO 2025-11-05 22:21:38,175 C:\Users\user\PycharmProjects\DjangoProject\training_app\serializers.py changed, reloading.
+INFO 2025-11-05 22:21:38,175 C:\Users\user\PycharmProjects\DjangoProject\training_app\serializers.py changed, reloading.
+INFO 2025-11-05 22:21:38,405 C:\Users\user\PycharmProjects\DjangoProject\training_app\serializers.py changed, reloading.
+INFO 2025-11-05 22:21:38,500 C:\Users\user\PycharmProjects\DjangoProject\training_app\serializers.py changed, reloading.
+INFO 2025-11-05 22:21:38,716 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:38,851 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:38,851 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:39,082 Watching for file changes with StatReloader
+INFO 2025-11-05 22:21:39,135 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:03,621 C:\Users\user\PycharmProjects\DjangoProject\.venv\Lib\site-packages\rest_framework_simplejwt\__init__.py changed, reloading.
+INFO 2025-11-05 22:22:03,629 C:\Users\user\PycharmProjects\DjangoProject\.venv\Lib\site-packages\rest_framework_simplejwt\__init__.py changed, reloading.
+INFO 2025-11-05 22:22:04,142 C:\Users\user\PycharmProjects\DjangoProject\.venv\Lib\site-packages\rest_framework_simplejwt\__init__.py changed, reloading.
+INFO 2025-11-05 22:22:04,217 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:04,217 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:04,494 C:\Users\user\PycharmProjects\DjangoProject\.venv\Lib\site-packages\rest_framework_simplejwt\__init__.py changed, reloading.
+INFO 2025-11-05 22:22:04,510 C:\Users\user\PycharmProjects\DjangoProject\.venv\Lib\site-packages\rest_framework_simplejwt\__init__.py changed, reloading.
+INFO 2025-11-05 22:22:04,808 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:05,141 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:05,157 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:05,320 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:38,416 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:22:38,431 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:22:38,786 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:22:39,187 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:39,187 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:39,187 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:22:39,203 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:22:39,210 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:22:39,560 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:39,880 Watching for file changes with StatReloader
+INFO 2025-11-05 22:22:39,907 Watching for file changes with StatReloader
+INFO 2025-11-05 22:23:00,699 Watching for file changes with StatReloader
+INFO 2025-11-05 22:23:49,811 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:23:49,817 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:23:50,249 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:23:50,252 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:23:50,553 Watching for file changes with StatReloader
+INFO 2025-11-05 22:23:50,680 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:23:50,688 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:23:50,704 C:\Users\user\PycharmProjects\DjangoProject\training_app\views.py changed, reloading.
+INFO 2025-11-05 22:23:51,060 Watching for file changes with StatReloader
+INFO 2025-11-05 22:23:51,066 Watching for file changes with StatReloader
+INFO 2025-11-05 22:23:51,496 Watching for file changes with StatReloader
+INFO 2025-11-05 22:23:51,496 Watching for file changes with StatReloader
+INFO 2025-11-05 22:23:51,506 Watching for file changes with StatReloader
+INFO 2025-11-05 22:25:40,098 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:40,114 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:40,117 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:40,461 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:40,608 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:40,631 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:40,701 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:41,406 Watching for file changes with StatReloader
+INFO 2025-11-05 22:25:41,406 Watching for file changes with StatReloader
+INFO 2025-11-05 22:25:41,406 Watching for file changes with StatReloader
+INFO 2025-11-05 22:25:41,461 Watching for file changes with StatReloader
+INFO 2025-11-05 22:25:41,473 Watching for file changes with StatReloader
+INFO 2025-11-05 22:25:41,496 Watching for file changes with StatReloader
+INFO 2025-11-05 22:25:59,050 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:59,063 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:59,066 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:59,070 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:59,090 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:59,099 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:25:59,829 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:26:00,064 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:00,093 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:00,099 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:00,102 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:00,107 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:00,111 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:00,558 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:08,896 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\urls.py changed, reloading.
+INFO 2025-11-05 22:26:09,006 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\urls.py changed, reloading.
+INFO 2025-11-05 22:26:09,029 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\urls.py changed, reloading.
+INFO 2025-11-05 22:26:09,052 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\urls.py changed, reloading.
+INFO 2025-11-05 22:26:09,060 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\urls.py changed, reloading.
+INFO 2025-11-05 22:26:09,172 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\urls.py changed, reloading.
+INFO 2025-11-05 22:26:09,847 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:09,927 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:09,955 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:09,956 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:09,957 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:09,960 Watching for file changes with StatReloader
+INFO 2025-11-05 22:26:10,024 Watching for file changes with StatReloader
+INFO 2025-11-05 22:27:04,299 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:27:04,340 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:27:04,843 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:27:05,169 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:27:05,270 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:27:05,270 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
+INFO 2025-11-05 22:27:05,284 C:\Users\user\PycharmProjects\DjangoProject\DjangoProject\settings.py changed, reloading.
